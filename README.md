@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n-hirsch
 - 🎓 I’m a graduate student studying cybersecurity
-- 💡 I'm interested in all things technology and love to work on homelab projects that cover Networking, Virtualization, Docker, and Security. 
+- 💡 I'm interested in all things technology and love to work on homelab projects that cover networking, virtualization, docker, and security 
 - 📫 How to reach me n_hirsch1@u.pacific.edu
 - 😄 Pronouns: He/Him
 
